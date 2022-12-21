@@ -1,6 +1,6 @@
-<p align="center"><img width="250" alt="앱 아이콘" src="https://user-images.githubusercontent.com/61315014/208849118-1e2c0869-2266-45ca-8a1c-3916dc6598cf.png"></p>
+<p align="center"><img width="200" alt="앱 아이콘" src="https://user-images.githubusercontent.com/61315014/208849118-1e2c0869-2266-45ca-8a1c-3916dc6598cf.png"></p>
 
-<p align="center"><img width="700" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/208848565-cdd29aa4-45cb-4617-b380-e9f372d62109.PNG"></p>
+<p align="center"><img width="700" alt="메인 스샷" src="https://user-images.githubusercontent.com/61315014/208849774-8efd220d-8704-4d65-ad0d-48a8c235ee2a.png"></p>
 
 ## Topic
   
